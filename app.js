@@ -1,5 +1,5 @@
 //link to firebase
-var dataRef = new Firebase("https://the-lisa-battle.firebaseio.com/");
+var dataRef = new Firebase("https://barry-williams-portfolio.firebaseio.com");
 
 //collects the input from the signup form
 function contactSubmission () {
